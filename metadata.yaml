@@ -1,0 +1,24 @@
+_repo: Joel-Sormensuo-Kertomus-nykyajalta_54744
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassinen, Emil
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '37583'
+    url: http://www.gutenberg.org/2009/agents/37583
+description: ''
+gutenberg_issued: '2017-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54744'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Joel Sormensuo: Kertomus nykyajalta'
+url: http://www.gutenberg.org/ebooks/54744
